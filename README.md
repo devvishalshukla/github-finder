@@ -3,7 +3,7 @@ Find user information by entering user's github handle
 
 <p> Have used Github api https://api.github.com/users/username to fetch user's information and then display it to the user. </p>
 
-To use this web app (github-finder) first generate a CLIENT_ID and CLIENT_SECRET and paste it in main.js file. Inorder to make it working.
+To use this web app (github-finder) first generate a CLIENT_ID and CLIENT_SECRET and paste it in main.js file. To make it working.
 
 To generate CLIENT_ID and CLIENT_SECRET
 1. click on your avatar on top right corner and visit setting
